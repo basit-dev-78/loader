@@ -1,0 +1,50 @@
+@keyframes loader1 {
+    0% {
+        transform: translatex(0%);
+    }
+
+    100% {
+        transform: translatex(100%)
+    }
+}
+
+@keyframes loader1-2 {
+    0% {
+        transform: translatex(0%);
+    }
+
+    100% {
+        transform: translatex(-100%)
+    }
+}
+
+@keyframes loader2 {
+    0% {
+        transform: translatex(0%);
+    }
+
+    100% {
+        transform: translatex(350%)
+    }
+}
+
+@keyframes wheel {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes loaderin {
+    0% {
+        transform: translateX(0%);
+    }
+
+    100% {
+        transform: translateX(470%);
+    }
+
+}
