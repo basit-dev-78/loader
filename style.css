@@ -83,7 +83,7 @@
 .wheel {
     height: 100px;
     width: 100px;
-    background-image: url(./wheel.png);
+    background-image: url(./assets/wheel.png);
     background-size: contain;
     margin-left: 40vw;
     margin-top: 30px;
@@ -93,4 +93,3 @@
 
 }
 
-.whpara {}
